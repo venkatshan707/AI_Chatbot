@@ -1,6 +1,15 @@
 # AI_Chatbot
-This is an Opensource project on creating AI Chatbot. This was created with minimal knowledge of Deep Learning and NLP. People who are interested to contribute, they can.
+This is an Opensource project on creating AI Chatbot. This was created with minimal knowledge of Deep Learning and NLP. People who are interested to contribute, they can help!!.
 
-![alt text](https://www.flickr.com/photos/196649886@N02/52406186612/in/dateposted-public/)
-![](come-in-open-source.jpg)
-[Photo Credit: Pete McCarthy](https://www.flickr.com/photos/petemccarthy/6866996865/in/photolist-bsP9VF-5HxTaS-aDjRJP-aDjQrH-deG7gC-aDoF1o-aDjPXc-aDoGmu-6rVG54-4SamTJ-aDoGf7-6rkTRy-oau5mJ-rufey1-q7f8tc-6D4R4n-ob5fBr-9ZakZE-fUg5eD-ruf1Y1-hvbS4v-afKdid-nPLGo6-p6vQv5-e28yoh-djiwmi-pPy6cL-74jKzz-nVcJqF-nQiamA-6fSXcE-aDoGyU-fAjoZM-4S4Lcz-5ZXKj8-aDjQSr-7z68V1-pPDNbq-edZStq-8f1nQ1-eVGah1-piE7UU-qzeuLm-6fSGWA-3TRAoj-8Yko35-6fSSyE-6fNEBM-fcweAo-qzfe8W)
+# Project Setup
+-----------
+   To Run this project, Please open the code any of the puthon IDE. 
+   
+# Current Features
+-------------
+
+1. It can great to the people at the start of the conversation and at the EOD of the converstion
+2. Then our bot can takes corpus (Corpus is a large collection of texts) and tokenize them 
+3. It uses Sentance and work tokenizers
+4. Based on our input, it look for the match in corpus and returning related text as output. 
+5. End the converation based on the user's input (Which have : Thank you and Bye)
