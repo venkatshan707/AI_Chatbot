@@ -10,6 +10,7 @@
 <hr>
 
 # AI Chatbot
+![Chatbot](https://user-images.githubusercontent.com/115106114/195994541-921deb85-e146-4535-be55-927141e8436e.gif)
 
 This is an Opensource project on creating AI Chatbot. This was created with minimal knowledge of Deep Learning and NLP. People who are interested to contribute, they can help!!.
 
