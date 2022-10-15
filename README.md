@@ -1,5 +1,13 @@
-# AI_Chatbot
+
 ![AI-Enabled-Chatbot](https://user-images.githubusercontent.com/30896136/195961757-41636611-5d99-4c01-b41b-8b6f2f81c02b.png)
+
+Table of Contents
+-----------------
+- [AI_Chatbot](# AI_Chatbot)
+- [Project Setup](# Project Setup)
+- [Current Features](# Current Features)
+
+# AI_Chatbot
 This is an Opensource project on creating AI Chatbot. This was created with minimal knowledge of Deep Learning and NLP. People who are interested to contribute, they can help!!.
 
 # Project Setup
