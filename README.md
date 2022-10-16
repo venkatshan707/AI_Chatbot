@@ -42,10 +42,13 @@ This is an Opensource project on creating AI Chatbot. This was created with mini
 
 
 # Ineuron Assignment
+
  Validating assignenment : 
-      Task 1: Please refer Task 1 Folder. 
-      Task 2: Done all the tasks. Added collaborators, created issue. Please go Through the Repository. 
-      Task 3: Enabled Dependabot and created pull requests and merged. And also done stash. Please refer screenshot on Folder Task 3. 
+* Task 1: Please refer Task 1 Folder. 
+* Task 2: Done all the tasks. Added collaborators, created issue. Please go Through the Repository. 
+* Task 3: Enabled Dependabot and created pull requests and merged. And also done stash. Please refer screenshot on Folder Task 3. 
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 <hr>
+
+* [Library name](https://example.com): Version 1234
