@@ -6,7 +6,7 @@
 - [AI_Chatbot](#ai-chatbot)
 - [Project Setup](#project-setup)
 - [Current Features](#current-features)
-- [Ineuron Assignment ](#Ineuron Assignment)
+- [Ineuron Assignment ](#ineuron-assignment)
 
 
 <hr>
