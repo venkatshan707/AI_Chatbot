@@ -6,6 +6,8 @@
 - [AI_Chatbot](#ai-chatbot)
 - [Project Setup](#project-setup)
 - [Current Features](#current-features)
+- [Ineuron Assignment ](#Ineuron Assignment)
+
 
 <hr>
 
@@ -34,6 +36,16 @@ This is an Opensource project on creating AI Chatbot. This was created with mini
 3. It uses Sentance and work tokenizers
 4. Based on our input, it look for the match in corpus and returning related text as output. 
 5. It will End the converation based on the user's input (Which have : Thank you and Bye)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+<hr>
+
+
+# Ineuron Assignment
+ Validating assignenment : 
+      Task 1: Please refer Task 1 Folder. 
+      Task 2: Done all the tasks. Added collaborators, created issue. Please go Through the Repository. 
+      Task 3: Enabled Dependabot and created pull requests and merged. And also done stash. Please refer screenshot on Folder Task 3. 
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 <hr>
